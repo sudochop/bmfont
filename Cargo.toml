@@ -1,0 +1,8 @@
+[package]
+name = "bmfont"
+version = "0.1.0"
+authors = ["sudochop <mmiller.6@go.ccad.edu>"]
+
+[lib]
+name = "bmfont"
+path = "lib.rs"
